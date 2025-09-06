@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory;
+Actions=runSVGcoloring;
+X-KDE-Submenu=Scripts SVG
+
+[Desktop Action runSVGcoloring]
+Name=Converter Cores SVG
+Icon=color-management
+Exec=/caminho/temporario/a/ser/substituido %F

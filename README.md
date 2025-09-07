@@ -81,4 +81,5 @@ Para que o script funcione, seu sistema precisa ter:
 
 -   **Ney Designer**
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K01KWCZW)
 ---
